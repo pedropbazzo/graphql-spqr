@@ -1,4 +1,4 @@
-# GraphQL SPQR
+# GraphQL SPQR 
 
 > GraphQL SPQR (GraphQL Schema Publisher & Query Resolver, pronounced like _speaker_) is a simple-to-use library for rapid development of GraphQL APIs in Java.
 
